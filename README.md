@@ -2,7 +2,7 @@
 This project is a Book Review Portal, built using Laravel framework along with TailwindCSS & AlpineJS.
 
 ## **IMPORTANT NOTE BEFORE INSTALLING** 
-Before cloning the repo, you should check the version of your Laravel/Composer/PHP version
+Before cloning the repo, you should check the version of your Laravel/Composer/PHP version.
 My project version are:
 ```
 Composer version 2.7.4 
